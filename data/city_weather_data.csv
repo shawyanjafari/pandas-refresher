@@ -1,0 +1,17 @@
+day,city,temperature,windspeed,event
+1/1/2022,austin,32,8,Snow
+1/2/2022,austin,34,6,Cloudy
+1/3/2022,austin,35,4,Sunny
+1/4/2022,austin,31,8,Sunny
+1/1/2022,new york,16,11,Sunny
+1/2/2022,new york,15,13,Snow
+1/3/2022,new york,11,15,Snow
+1/4/2022,new york,14,12,Cloudy
+1/1/2022,ft worth,29,9,Snow
+1/2/2022,ft worth,27,9,Snow
+1/3/2022,ft worth,27,10,Snow
+1/4/2022,ft worth,28,10,Sunny
+1/1/2022,dallas,30,10,Sunny
+1/2/2022,dallas,27,11,Cloudy
+1/3/2022,dallas,27,9,Cloudy
+1/4/2022,dallas,29,10,Cloudy
